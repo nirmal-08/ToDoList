@@ -59,7 +59,7 @@ export default function ToDo() {
         <>
             <section className="todo-container">
                 <header>
-                    <h1 style={{textAlign : "center",marginLeft : "10px"}}>Todo List</h1>
+                    <h1 style={{textAlign : "center",marginLeft : "10px"}}>TODO List</h1>
                     <ToDoDate/>
                 </header>
 
